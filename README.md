@@ -6,10 +6,12 @@ I am Eloide Novela, a **Computer Engineering** student with a strong passion for
 
 ## Technologies and Tools
 
-- **C++**: I work with C++ using libraries like `rpc`, `crow`, `sqlite_orm`, and more.
-- **Java**: I have some experience with Java.
-- **PostgreSQL and MySQL**: I use these technologies to manage and manipulate relational databases.
-- **Python (FastAPI)**: Developing fast and efficient APIs with the FastAPI framework.
+| **Technology and Tools**      | **libraries** |
+|---------------|--------------|
+| **C++**       | Drogon, crow, sqlite_orm, glog, gtest|
+| **XMake**     | A Modern tool to make build and dependecies manager for C and C++ |
+| **Python**    | Fastapi, sqlalchemy |
+| **Java**   | Hibertante|
 
 ## What I Enjoy Doing
 
