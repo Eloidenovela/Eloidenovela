@@ -11,7 +11,7 @@ I am Eloide Novela, a **Computer Engineering** student with a strong passion for
 | **C++**       | Drogon, crow, sqlite_orm, glog, gtest|
 | **XMake**     | A Modern tool to make build and dependecies manager for C and C++ |
 | **Python**    | Fastapi, sqlalchemy |
-| **Java**   | Hibertante|
+| **Java**   | Hibernate|
 
 ## What I Enjoy Doing
 
